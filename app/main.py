@@ -1,4 +1,4 @@
-import
+import Flask
 from ultralytics import YOLO
 
 # Paths
