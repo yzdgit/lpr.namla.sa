@@ -1,3 +1,8 @@
 models/
 .DS_Store
 data/
+
+
+tailwindcss
+tailwind.config.js
+input.css
