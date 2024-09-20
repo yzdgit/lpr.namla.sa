@@ -1,7 +1,8 @@
 models/
 .DS_Store
 data/
-
+*.pt
+*.onnx
 
 tailwindcss
 tailwind.config.js
